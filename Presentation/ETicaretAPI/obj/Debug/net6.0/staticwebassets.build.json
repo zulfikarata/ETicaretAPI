@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "P18Pl5LuBHzAmfdX3sFsWCP9qP4DoqLdfiFwP964wyU=",
+  "Source": "ETicaretAPI",
+  "BasePath": "_content/ETicaretAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI\\wwwroot",
+      "Source": "ETicaretAPI",
+      "ContentRoot": "C:\\Users\\Zulfikar\\source\\repos\\ETicaretAPI\\Presentation\\ETicaretAPI\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
